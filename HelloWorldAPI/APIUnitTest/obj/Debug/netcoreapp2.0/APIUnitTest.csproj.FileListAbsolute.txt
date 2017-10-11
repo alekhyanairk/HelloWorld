@@ -1,0 +1,16 @@
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\APIUnitTest.deps.json
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\APIUnitTest.runtimeconfig.json
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\APIUnitTest.runtimeconfig.dev.json
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\APIUnitTest.dll
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\APIUnitTest.pdb
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\bin\Debug\netcoreapp2.0\HelloWorldAPI.pdb
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\obj\Debug\netcoreapp2.0\APIUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\obj\Debug\netcoreapp2.0\APIUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\obj\Debug\netcoreapp2.0\APIUnitTest.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\obj\Debug\netcoreapp2.0\APIUnitTest.AssemblyInfo.cs
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\obj\Debug\netcoreapp2.0\APIUnitTest.dll
+C:\Users\home\source\repos\HelloWorldAPI\APIUnitTest\obj\Debug\netcoreapp2.0\APIUnitTest.pdb
